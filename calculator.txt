@@ -11,3 +11,7 @@ scanf("%d\n %d\n",&a,&b);
 mul=a*b;
 printf("mul=  %d\n",mul);
 }
+int a,b,sub;
+scanf("%d%d",&a,&b);
+sub=a-b;
+printf("Sub =%d",sub);

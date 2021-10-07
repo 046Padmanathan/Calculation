@@ -5,5 +5,9 @@ int main()
 	scanf("%d %d",&a,&b);
 	sum=a+b;
 	printf("Sum =%d",sum);
-	
+
+int a,b,mul;
+scanf("%d\n %d\n",&a,&b);
+mul=a*b;
+printf("mul=  %d\n",mul);
 }
